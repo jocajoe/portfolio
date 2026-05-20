@@ -2,16 +2,14 @@
 # General Site Settings
 
 # The site logo that shows up in the top-left corner of the page.
-logo: '/assets/img/musa-logo.png'
+logo: '/assets/img/JC Logo.png'
 
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
-intro_title: Personal Mission 10-word Summary
+intro_title: We really have a lot to do
 intro_text: |
-  A brief couple of sentences describing your personal mission statement goes
-  here. This is a great place to very succinctly tell a visitor what drives you
-  and what you're passionate about.
+  I am a Data Scientist located in Philadelphia. I enjoy exploring the world through data and solving problems with technology. I have a life long love for the outdoors and enjoy backpacking, caving, and rock climbing in my spare time.
 
 # The link that is used for the resume button, below the intro text on the
 # portfolio home page. This link will also be used in the drop down menu. If
@@ -22,7 +20,7 @@ resume_link_title: Download Resume
 # The items that will show up in the drop down menu (in addition to the resume
 # link, if given).
 menu:
-- {name: 'Projects', url: ' '}
+- {name: 'Projects', url: 'projects'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
@@ -32,11 +30,10 @@ menu:
 
 social_label: Connect
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/cahill8116'}
+- {icon: 'github',    link: 'https://github.com/jocajoe'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/joseph-a-cahill/'}
+- {icon: 'envelope',  link: 'mailto:jcahill12345@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -59,7 +56,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
